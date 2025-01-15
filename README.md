@@ -95,4 +95,8 @@ I aim to **develop AI-driven solutions that turn ambitious ideas into real-world
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DaoudiAmir&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
