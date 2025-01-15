@@ -1,16 +1,10 @@
-uses: Platane/snk@v3
+- uses: Platane/snk@v3
   with:
     # GitHub username to read the contribution graph from (**required**)
     github_user_name: ${{ github.repository_owner }}
 
-    # Output file 1
-    output_file_1: dist/github-snake.svg
-    
-    # Output file 2 (dark theme)
-    output_file_2: dist/github-snake-dark.svg
-    palette_2: github-dark
-
-    # Output file 3 (animated GIF)
-    output_file_3: dist/ocean.gif
-    color_snake_3: orange
-    color_dots_3: "#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9"
+    # List of files to generate
+    outputs: >
+      dist/github-snake.svg
+      dist/github-snake-dark.svg?palette=github-dark
+      dist/ocean.gif?color_snake=orange&color_dots=%23bfd6f6,%238dbdff,%2364a1f4,%234b91f1,%233c7dd9
