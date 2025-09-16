@@ -1,6 +1,6 @@
 # 🚀 Amir Salah Eddine Daoudi's Portfolio  
 
-Welcome to my **GitHub** 👨‍💻! I am **Amir Salah Eddine Daoudi**, an enthusiast in **Artificial Intelligence**, **Data Science**, **Web Developpement** and **Embedded Systems**. Currently, a **4th-year engineering student at ESIEA Paris**, I specialize in solving complex challenges with innovative and scalable solutions.  
+Welcome to my **GitHub** 👨‍💻! I am **Amir Salah Eddine Daoudi**, an enthusiast in **Artificial Intelligence**, **Data Science**, **Web Developpement** and **Embedded Systems**. Currently, a **5th-year engineering student**, I specialize in solving complex challenges with innovative and scalable solutions.  
 
 ---
 
